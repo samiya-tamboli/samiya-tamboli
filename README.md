@@ -6,12 +6,14 @@
 - 🔭 I’m currently working on **Cloudera and Cloud Support Project**
 
 - 🌱 I’m currently learning **DevOps and GitOps**
+  
+- ☁️ Actively collaborating in **AWS Emerging Talent Community & AWS CloudUp for Her program**
+  
+- 🤝 I’m ready to help with **Migration of data or workloads from on-prem to cloud**
 
-- 🤝 I’m looking for help with **Migration of data or workloads from on-prem to cloud**
+- 👨‍💻 All of my projects are available at **https://github.com/samiya-tamboli**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samiya-tamboli](https://github.com/samiya-tamboli)
-
-- 💬 Ask me about **Cloud computing, capacity planning, cost optimization and migration strategies**
+- 💬 Ask me about **Cloud computing, capacity planning, cost optimization, and migration strategies**
 
 <h3 align="left">Feel free to reach out to me 😄</h3>
 <p align="left">
